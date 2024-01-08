@@ -76,7 +76,7 @@ courseInfo.classPeriods = [
  		topic: new Topic("** Exam 1", "",[],[])
  	},
 	{
-		topic: new Topic("Lecture 9: Arrays", "lectures/lecture09.html","Week6",["Array Scanner*", "Pair sums*", "Exceeded Amount", "weighted average", "Not like the others@"],[
+		topic: new Topic("Lecture 9: Arrays", "lectures/lecture09.html","Week7",["Array Scanner*", "Pair sums*", "Exceeded Amount", "weighted average", "Not like the others@"],[
 "https://cs.ycp.edu/cloudcoder/#exercise?c=35,p=1893", 
 "https://cs.ycp.edu/cloudcoder/#exercise?c=35,p=1894",
 "https://cs.ycp.edu/cloudcoder/#exercise?c=35,p=1895", 
@@ -89,7 +89,7 @@ courseInfo.classPeriods = [
 		lab: new NumberedLab("9b", "Sorting and Finding Median of an Array")
 	},
 	{
-		topic: new Topic("Lecture 10: Multidimensional arrays", "lectures/lecture10.html","Week7",["tic-tac-toe check*", "Magic Squares"],[
+		topic: new Topic("Lecture 10: Multidimensional arrays", "lectures/lecture10.html","Week8",["tic-tac-toe check", "Magic Squares"],[
 "https://cs.ycp.edu/cloudcoder/#exercise?c=35,p=1924", 
 "https://cs.ycp.edu/cloudcoder/#exercise?c=35,p=1935"]),
 		lab: new NumberedLab(10, "<b>Optional</b> Kitten Pictures")
@@ -125,11 +125,15 @@ courseInfo.classPeriods = [
 		lab: new DoubleNumberedLab(13, "Fancy Output", 14, "Boing!")
 	},
 	{
-		topic: new DoubleTopic("Lecture 15: Pointers, reference parameters", "lectures/lecture15.html","Lecture 16: Pointers to structs", "lectures/lecture16.html","Week11",["AddEmUp*", "area of Rectangle*", "quadrant*"],[
+		topic: new Topic("Lecture 15: Pointers, reference parameters", "lectures/lecture15.html","",[],[]),
+		lab: new NumberedLab(15, "Boing! revisited")
+	},
+	{
+		topic: new Topic("Lecture 16: Pointers to structs", "lectures/lecture16.html", "Week11",["AddEmUp*", "area of Rectangle*", "quadrant*"],[
 "https://cs.ycp.edu/cloudcoder/#exercise?c=35,p=1905", 
 "https://cs.ycp.edu/cloudcoder/#exercise?c=35,p=1906", 
 "https://cs.ycp.edu/cloudcoder/#exercise?c=35,p=1932"]),
-		lab: new DoubleNumberedLab(15, "Boing! revisited", 16, "Boing! with pointers")
+		lab: new NumberedLab(16, "Boing! with pointers")
 	},
 	{
 		topic: new Topic("Lecture 17: Composition of structs", "lectures/lecture17.html","",[],[]),
@@ -140,7 +144,7 @@ courseInfo.classPeriods = [
 		lab: new NumberedLab(17, "Mini Golf")
 	},
 	{
-		topic: new Topic("Lecture 18: Arrays and functions", "lectures/lecture18.html","Week12",["ArraySum*", "IsAscending*", "countOdd*", "Min Array Entry"],[
+		topic: new Topic("Lecture 18: Arrays and functions", "lectures/lecture18.html","Week13",["ArraySum*", "IsAscending*", "countOdd*", "Min Array Entry"],[
 "https://cs.ycp.edu/cloudcoder/#exercise?c=35,p=1900", 
 "https://cs.ycp.edu/cloudcoder/#exercise?c=35,p=1902", 
 "https://cs.ycp.edu/cloudcoder/#exercise?c=35,p=1901", 
