@@ -1,0 +1,4 @@
+coursename: "CS 101"
+baseurl: "/cs101-spring2024"
+markdown: kramdown
+highlighter: rouge
