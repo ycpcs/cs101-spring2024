@@ -63,7 +63,7 @@ You will need to install the following packages:
 > Devel    | gcc-g++, make
 > Interpreters | perl
 > Libs | libncurses-devel
-> Net | curl, openssh
+> Net | curl, openssh, wget
 
 To choose a package, expand its category, then click on the word "Skip" to the left of the package name. The word "Skip" will be replaced by a version number. For example, after choosing the "curl" package in the "Net" category, my window looked like this:
 
