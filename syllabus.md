@@ -15,7 +15,7 @@ Instructor:
 
 > Section(s) | Instructor | Office hours
 > ---------- | ---------- | ------------
-> 101 (11:00-12:15AM KEC119) | David Babcock <dbabcock@ycp.edu> KEC 117 | or by appointment
+> 101 (11:00-12:15AM KEC119) | David Babcock <dbabcock@ycp.edu> KEC 117 | M 1-3pm, T 2-3pm, W 1-2pm, R 9:30-11am, or by appointment
 > 102 (9:30-10:45AM KEC119) | Krishna Kambhampaty, <kkambhampaty@ycp.edu> KEC115 | or by appointment
 
 Course description
