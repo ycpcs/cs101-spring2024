@@ -113,6 +113,9 @@ courseInfo.classPeriods = [
 		lab: new NumberedLab(12, "Simple Stats")
 	},
 	{
+ 		topic: new Topic("Assignment workday", "",[],[]),
+ 	},
+	{
  		topic: new Topic("Exam 2 Review", "",[],[]),
  		lab: new NumberedLab("12b", "<b>Optional</b> Function Design")
  	},
@@ -137,10 +140,6 @@ courseInfo.classPeriods = [
 	},
 	{
 		topic: new Topic("Lecture 17: Composition of structs", "lectures/lecture17.html","",[],[]),
-		lab: new NumberedLab(17, "Mini Golf")
-	},
-	{
-		topic: new Topic("Lecture 17: Composition of structs, cont.", "lectures/lecture17.html","",[],[]),
 		lab: new NumberedLab(17, "Mini Golf")
 	},
 	{
