@@ -95,7 +95,7 @@ This section describes some practices you should adopt in order to be successful
 
 *Put in the time.*  A *minimum* expectation for college courses are that you should spend two hours outside of class for every hour in class.  For CS 101, it is very possible that you will need *more* than six hours per week outside of class to keep up.
 
-# Part 3: Atitude
+# Part 3: Attitude
 
 ## Completing Tasks vs. Learning Skills
 
