@@ -95,6 +95,14 @@ This section describes some practices you should adopt in order to be successful
 
 *Put in the time.*  A *minimum* expectation for college courses are that you should spend two hours outside of class for every hour in class.  For CS 101, it is very possible that you will need *more* than six hours per week outside of class to keep up.
 
+# Part 3: Atitude
+
+## Completing Tasks vs. Learning Skills
+
+It is beneficial to students to mentally distinguish between learning a skill and completing a task. When completing a task, success is measured by the result given. How good of a project is this submission? However, completing a task does not fully represent whether the task can be repeated again successfully. If a student completes a task without learning how to do it, they may not be able to do it a second time. Competing tasks and learning skills are important, and are related to each other, but both must be accomplished for a successful education of the topic. If your approach is based only on competing tasks, such as using Stack Overflow, ChatGPT, etc. to complete tasks without learning how to replicate the work you may not learn fully.
+
+By separating tasks from learning skills, both can be covered separately. You are instructed to complete tasks, with the hope that completing them will result in learning, but only if you have a skill based mindset. Only then will you be able to demonstrate learning by having the ability to complete a task without help. 
+
 <!-- vim:set wrap: ­-->
 <!-- vim:set linebreak: -->
 <!-- vim:set nolist: -->
