@@ -12,7 +12,7 @@ Code is due (<a href="../submitting.html">submitted to Marmoset</a>) by 11:59 PM
 Assignment | File | Due date(s)
 ---------- | ---- | -----------
 [Assignment 1: Projectile Motion](assign01.html) | [CS101\_Assign01\_Sp24.zip](CS101_Assign01_Sp24.zip) | Design: Tues, Feb 6th<br>Code: Mon, Feb 12th
-[Assignment 2: Calendar](assign02.html) | [CS101\_Assign02\_Sp24.zip](CS101_Assign02_Sp24.zip) | MS1 Design: Thur, Feb 15th<br>MS1 Code: Tues, Feb 20th<br>MS2 Design: Thur, Feb 22nd<br>MS2 Code: Wed, Feb 26th
+[Assignment 2: Calendar](assign02.html) | [CS101\_Assign02\_Sp24.zip](CS101_Assign02_Sp24.zip) | MS1 Design: Thur, Feb 15th<br>MS1 Code: Tues, Feb 20th<br>MS2 Design: Thur, Feb 22nd<br>MS2 Code: Wed, Feb 28th
 
 <!--
 [Assignment 2: Calendar](assign02.html) | [CS101\_Assign02\_Fa23.zip](CS101_Assign02_Fa23.zip) | MS1 Design: Tues, Sept 12th<br>MS1 Code: Fri, Sept 15th<br>MS2 Design: Tues, Sept 19th<br>MS2 Code: Mon, Sept 25th
